@@ -1,0 +1,15 @@
+.pio
+.vscode
+__pycache__
+
+*.png
+*.jpg
+*.jpeg
+*.json
+*.jsonl
+*.onnx
+*.wav
+*.ps1
+*.gif
+
+.env
